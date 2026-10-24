@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Chore Quest — Family Teamwork",
+  "short_name": "Chore Quest",
+  "description": "A cheerful way for the family to share chores.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fff8ee",
+  "theme_color": "#fff8ee",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
