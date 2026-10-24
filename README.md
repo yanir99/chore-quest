@@ -2,6 +2,8 @@
 
 A cheerful, self-hosted chore board for a family: each child signs in with their own PIN, logs only under their identity, sees the same shared dashboard, and earns points while parents manage the household. It is a mobile-first PWA that can be added to an iPhone Home Screen. The app runs as one Node service with SQLite storage; it does not require a cloud account.
 
+<img src="chore-quest-mainpage.png" alt="main page" width=50%>    /     <img src="chore-quest-settings.png" alt="settings" width=30%> 
+
 ## Included in the first version
 
 - Two starter child profiles; a parent sets a unique PIN for each during setup, and can add profiles or set/reset PINs later.
